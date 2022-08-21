@@ -12,6 +12,9 @@
   "dependencies": {
     "@react-navigation/native": "^6.0.8",
     "@react-navigation/native-stack": "^6.5.0",
+    "appcenter": "4.4.5",
+    "appcenter-analytics": "4.4.5",
+    "appcenter-crashes": "4.4.5",
     "react": "17.0.2",
     "react-native": "0.67.4",
     "react-native-safe-area-context": "^4.2.1",

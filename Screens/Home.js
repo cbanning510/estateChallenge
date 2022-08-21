@@ -60,7 +60,7 @@ const Home = ({navigation}) => {
   return (
     <SafeAreaView style={{flex: 1}}>
       <View style={styles.container}>
-        <Text style={styles.title}>Estatesss Users</Text>
+        <Text style={styles.title}>Feature 2 Users</Text>
         <FlatList
           data={data}
           keyExtractor={(item, index) => item.name.lastName + index.toString()}
